@@ -55,6 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+<<<<<<< HEAD
 
 #Ipython
 .ipynb_checkpoints/
@@ -87,3 +88,5 @@ Temporary Items
 
 #Temporary data
 tempdata/
+=======
+>>>>>>> course/master

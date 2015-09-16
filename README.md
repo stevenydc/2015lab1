@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2015lab1
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
@@ -34,3 +35,9 @@ The diagram below should help elucidate the above and serve as a command cheat-s
 
 ![homework](cs109gitflow3.png)
 
+=======
+# Testing
+A test repo for a ton of things
+
+Added a line to test `fetch`
+>>>>>>> course/master
